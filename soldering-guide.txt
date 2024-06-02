@@ -1,0 +1,17 @@
+Soldering Guide:
+1. LEDs
+  - They look half-octagons with legs of different lenghts.
+  - Anode/Cathode is specified by the length of the legs, instert the LED accordingy.
+  - The color is specified by the "R/G/B/Y" letters in the corner of the bulb.
+  - R is for red.
+  - G is for green.
+  - B is for blue.
+  - Y is for yellow.
+2. Buttons
+  - They look like a circle in a square, with the contact points at the sides.
+  - The orientation doesn't matter.
+3. Resistors
+ - They look like squares with contact points at the end.
+ - Their resistance is specified with the number inside in Ohms.
+4. Headers
+  - They are just contact points.
