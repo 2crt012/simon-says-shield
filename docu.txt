@@ -1,0 +1,4 @@
+Game Rules:
+- Recreate the pattern shown by the LEDs.
+- The pattern gets longer every turn.
+- If you make one mistake, you'll have to start all over with a new pattern.
